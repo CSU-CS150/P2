@@ -1,4 +1,4 @@
-#Practical 2 - Salary Inequity (Student Files)
+# Practical 2 - Salary Inequity (Student Files)
 
 This practical focuses on allowing students to build the front end to a data viewer application. 
 The data they are viewing is salary data built from the
