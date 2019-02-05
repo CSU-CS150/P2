@@ -233,9 +233,8 @@ public class Practical2 {
     public void findDifferencesMenu() {
         printDifferencesMenu();
         int input = getClientInputAsInt();
-        //TODO: check to see if 0 and if so, return out of this method
+        //TODO: check to see if 0 and  if so, return out of this method - if it isn't a 1 or 2, skip the next part.
 
-        if(input == 0) return;
         printDifferencesSubMenu();
         int dataID = getClientInputAsInt();
         System.out.println();
