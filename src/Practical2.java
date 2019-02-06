@@ -63,7 +63,7 @@ public class Practical2 {
      *
      * here is an example using Ag. Science
      * <pre>
-     *     0.	Agriculture / Animal Sciences	$57,028.99	$47,437.97	$55,829.54	$54,624.16  74.93%	25.07%	84.96%	15.04%
+     *       0.	Agriculture / Animal Sciences	$57,028.99	$47,437.97	$55,829.54	$47,817.34	$54,624.16	74.93%	25.07%	84.96%	15.04%
      * </pre>
      *
      * It should be noted that the spaces are actually the tab characters \t
